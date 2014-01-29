@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://yaelsh.github.com/sitemap.xml 
+Sitemap: http://yaelsh.github.io/sitemap.xml 

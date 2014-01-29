@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yaelsh.github.com/blog/2014/01/29/my-first-blogpost/</loc>
+        <loc>http://yaelsh.github.io/blog/2014/01/29/my-first-blogpost/</loc>
         <lastmod>2014-01-29T09:08:57+02:00</lastmod>
     </url>
     <url>
-        <loc>http://yaelsh.github.com/blog/archives/</loc>
+        <loc>http://yaelsh.github.io/blog/archives/</loc>
         <lastmod>2014-01-29T09:08:57+02:00</lastmod>
     </url>
     <url>
-        <loc>http://yaelsh.github.com/</loc>
+        <loc>http://yaelsh.github.io/</loc>
         <lastmod>2014-01-29T09:08:57+02:00</lastmod>
     </url>
     <url>
-        <loc>http://yaelsh.github.com/robots.txt</loc>
+        <loc>http://yaelsh.github.io/robots.txt</loc>
         <lastmod>2014-01-29T09:01:19+02:00</lastmod>
     </url>
 </urlset>

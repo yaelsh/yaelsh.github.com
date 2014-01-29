@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: First | My Blog]]></title>
-  <link href="http://yaelsh.github.com/blog/categories/first/atom.xml" rel="self"/>
-  <link href="http://yaelsh.github.com/"/>
-  <updated>2014-01-29T09:09:22+02:00</updated>
-  <id>http://yaelsh.github.com/</id>
+  <link href="http://yaelsh.github.io/blog/categories/first/atom.xml" rel="self"/>
+  <link href="http://yaelsh.github.io/"/>
+  <updated>2014-01-29T09:14:18+02:00</updated>
+  <id>http://yaelsh.github.io/</id>
   <author>
     <name><![CDATA[Yael Shoval]]></name>
     <email><![CDATA[yael.shoval@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[My First Blogpost]]></title>
-    <link href="http://yaelsh.github.com/blog/2014/01/29/my-first-blogpost/"/>
+    <link href="http://yaelsh.github.io/blog/2014/01/29/my-first-blogpost/"/>
     <updated>2014-01-29T09:06:40+02:00</updated>
-    <id>http://yaelsh.github.com/blog/2014/01/29/my-first-blogpost</id>
+    <id>http://yaelsh.github.io/blog/2014/01/29/my-first-blogpost</id>
     <content type="html"><![CDATA[<h3>TITLE</h3>
 
 <ol>
